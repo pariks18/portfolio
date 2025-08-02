@@ -8,9 +8,9 @@ let SecondSection = () => {
       <section id="home">
         <div className="secondbox fontpop">
           <div className="secondboxcard cursor-pointer scale-105 transition-transform duration-300 rounded-lg border-4 border-violet-400 bg-black text-white hover:drop-shadow-[0_0_20px_#a78bfa] transition-all duration-500">
-            <h2 className="text-4xl tracking-tight sm:text-4xl text-violet-400 drop-shadow-[0_0_1px_#a78bfa] font-bold">
+            <h2 className=" tracking-tight sm:text-3xl text-violet-400 drop-shadow-[0_0_1px_#a78bfa] font-bold ">
               Hi, I’m{" "}
-              <span className="inline-block scale-125 transition-all duration-300 ease-in-out cursor-pointer pl-[30px] hover:pb-[5px] text-cyan-400 cursor-target">
+              <span className="inline-block scale-125 transition-all duration-300 ease-in-out cursor-pointer pl-[30px] hover:pb-[5px] text-cyan-400 cursor-target Nameinsecondsection">
                 Parikshit Gole,
               </span>
             </h2>

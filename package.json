@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.1.11",
     "bits": "^0.1.1",
     "flowbite": "^3.1.2",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.13.0",
     "motion": "^12.23.6",
     "react": "^19.1.0",

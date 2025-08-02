@@ -79,7 +79,7 @@ height: 100%;
 
 .header02item
 {    white-space: nowrap;
-    padding-right: 70px;
+    padding-right: 40px;
 }
 
 
@@ -162,6 +162,21 @@ height: 100%;
 
 
 @media screen and (max-width: 768px) {
+    
+.flexthird{
+       
+        width: 70%;
+        display: flex
+;
+        flex-direction: column;
+        gap: 15%;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        flex: 0 0 100px;
+
+}
+
+
     .header {
         flex-direction: column;
         align-items: flex-start;
@@ -173,9 +188,22 @@ height: 100%;
         margin: 0 auto;
     }
 
+    .header02item
+{    white-space: nowrap;
+    padding-right: 0px;
+  
+}
+.Nameinsecondsection{
+padding-left: 25px;
+font-size: 20px;
+}
+
+
     .secondboxcard {
-        width: 95%;
-        padding: 15px;
+        width: fit-content;
+        padding: 25px;
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
     .thirdcontainer
